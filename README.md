@@ -10,6 +10,7 @@
 - 📫 Contate-me no email: jvictor.r.vieira@gmail.com
 - 😄 Pronouns: Helicoptero/nosso☭
 - ⚡ Fun fact: kkkkasdkjotakkk
+
 [![Site](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pneumm.carrd.co/)
   
   
