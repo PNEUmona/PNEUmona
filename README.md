@@ -12,6 +12,8 @@
 - 😄 Pronouns: Helicoptero/nosso☭
 
 [![Site](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pneumm.carrd.co/)
+[!giphy](https://media4.giphy.com/media/Q8DAXUiquzILEPtaJY/giphy.gif)
+
   
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PneUmona)
