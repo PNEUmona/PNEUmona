@@ -12,10 +12,7 @@
 - 😄 Pronouns: Helicoptero/nosso☭
 
 [![Site](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pneumm.carrd.co/)
-[!giphy](https://media4.giphy.com/media/Q8DAXUiquzILEPtaJY/giphy.gif)
 
-  
-  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PneUmona)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfHE_wGZH6rO16ES9o-W9Qw)
 [![Whatssapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5538992013235&text&app_absent=0)
@@ -34,6 +31,7 @@
 
 ### faço isso pelo dinheiro.
 
+![senna](https://user-images.githubusercontent.com/71764643/134789224-2850da10-80c3-41c3-9960-009039b28933.gif)
 
 
   
