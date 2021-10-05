@@ -5,7 +5,7 @@
 
 
 - 🔭 não tenho emprego, me contrata ai pfv
-- 🌱 Estudando Kotlin
+- 🌱 Estudando data science
 - 🤔 preciso de ajuda com AWS 
 - 💬 me pergunte sobre Python/Java
 - 📫 Contate-me no email: jvictor.r.vieira@gmail.com
