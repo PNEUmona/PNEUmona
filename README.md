@@ -4,12 +4,10 @@
 
 
 
-- 🔭 não tenho emprego, me contrata ai pfv
 - 🌱 Estudando data science
 - 🤔 preciso de ajuda com AWS 
-- 💬 me pergunte sobre Python/Java
+- 💬 me pergunte sobre Python
 - 📫 Contate-me no email: jvictor.r.vieira@gmail.com
-- 😄 Pronouns: Helicoptero/nosso☭
 
 [![Site](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pneumm.carrd.co/)
 
