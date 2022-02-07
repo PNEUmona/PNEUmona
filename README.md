@@ -15,7 +15,7 @@
 [![Whatssapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5538992013235&text&app_absent=0)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lab_pesqueiro)
 
-
+🎩
 ## manjo 
 ### SKILLS
 
@@ -38,10 +38,11 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
-
+![matrix](https://i.pinimg.com/originals/03/7f/9f/037f9f2466b37eed320dd1956ef3bf77.gif)
 ### faço isso pelo dinheiro.
 
 ![senna](https://user-images.githubusercontent.com/71764643/134789224-2850da10-80c3-41c3-9960-009039b28933.gif)
+
 
 
   
