@@ -4,9 +4,8 @@
 
 
 
-- 🌱 Estudando data science
-- 🤔 preciso de ajuda com AWS 
-- 💬 me pergunte sobre Python
+- 🌱 Estudando Hacking 
+- 💬 me pergunte sobre como fazer bolo de laranja
 - 📫 Contate-me no email: jvictor.r.vieira@gmail.com
 
 [![Site](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pneumm.carrd.co/)
