@@ -17,12 +17,12 @@
 
 
 ## manjo 
-###SKILLS
+### SKILLS
 
--   Web Security
--   OSINT
 -   Hacking
+-   Web Security
 -   Bughunting
+-   OSINT
 -   Programming
 -   Scanners
 -   Log analysis
