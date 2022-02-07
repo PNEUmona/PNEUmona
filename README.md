@@ -37,7 +37,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div><br/>![matrix](037f9f2466b37eed320dd1956ef3bf77.gif)
+</div><br/>![037f9f2466b37eed320dd1956ef3bf77](https://user-images.githubusercontent.com/71764643/152825979-f3ba85a2-c099-4ba9-9b84-afc2c03026f5.gif)
 
 ### faço isso pelo dinheiro.
 ![senna](https://user-images.githubusercontent.com/71764643/134789224-2850da10-80c3-41c3-9960-009039b28933.gif)
