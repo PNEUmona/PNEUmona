@@ -19,22 +19,17 @@
 ## manjo 
 ### SKILLS
 
--   Hacking
--   Web Security
--   Bughunting
--   OSINT
+-   Hacking/Web Security/Bughunting
+-   OSINT/Social Engineering
 -   Programming
 -   Scanners
 -   Log analysis
--   Networking
 -   CTFs
--   Motorsport
--   Linux
--   Social Engineering
--   Web servers
--   VPS
+-   Linux/Networking/VPS/Web Servers/
 -   Reverse Engineering
 -   (Blockchain)
+-   Motosport and fast cars
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
